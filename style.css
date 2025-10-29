@@ -1,6 +1,6 @@
-body{
-    height: 100vh;
-    width: 100vw;
+html ,body{
+    height: 100%;
+    width: 100%;
     display: flex;
     flex-direction: column;
 }
@@ -90,6 +90,7 @@ p{
 
 main{
     flex-grow: 1;
+
 }
 .container{
     margin: 100px;
@@ -181,7 +182,7 @@ main{
 
     .juiz{
         transform: translate(400px, -850px);
-        width: 464px;
+        width: 400px;
         height: 695px;
     }
 
@@ -193,6 +194,7 @@ main{
 
     .buttonstart{
         margin: 120px 0px 70px 40px;
+        font-size: 15px;
     }
 
     .tags{
@@ -216,15 +218,18 @@ main{
         width: 153px;
         height: 68px;
         font-size: 15px;
+        
     }
     .buttonstart{
-        width: 80%;
+        width: 90%;
+        margin: 20px auto;
     }
 
     .juiz{
-        width: 240px;
+        width: 200px;
         height: 360px;
-        transform: translate(190px, -570px);
+        transform: translate(170px, -520px);
+        z-index: -1;
 
     }
 
