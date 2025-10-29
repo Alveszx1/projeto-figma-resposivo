@@ -19,7 +19,7 @@ CSS3 – Estilização e layout responsivo
 
 Clone o repositório
 
-git clone https://github.com/usuario/tax-lawyer-website.git
+git clone https://github.com/Alveszx1/projeto-figma-resposivo
 
 
 Acesse a pasta do projeto
