@@ -103,7 +103,8 @@ main{
     width: 200px;
     height: 60px;
     background-color: #0C950E;
-    margin: 20px 95px;
+    margin: 20px 0px 40px 185px;
+    font-size: 20px;
     color: white;
     border-radius: 30px;
 
@@ -114,7 +115,7 @@ main{
    width: 647px;
    height: 920px;
    position: absolute;
-   transform: translate(1250px, -1050px);
+   transform: translate(1250px, -1000px);
 }
 
 .tags {
@@ -181,8 +182,8 @@ main{
 
 
     .juiz{
-        transform: translate(400px, -850px);
-        width: 400px;
+        transform: translate(375px, -850px);
+        width: 390px;
         height: 695px;
     }
 
