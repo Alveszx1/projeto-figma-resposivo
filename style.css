@@ -47,6 +47,10 @@ nav ul{
 nav ul li{
     margin: 40px;
     font-size: 15px;
+    transition: 0.05s;
+}
+nav ul li:hover{
+    border-bottom: 2px solid black;
 }
 
 .button{
